@@ -89,4 +89,4 @@ Lead statuses represent the main stages of an event follow-up workflow without i
 
 The application is deployed on Vercel.
 
-**Live Application:** To be added after deployment.
+**Live Application:** https://even8-ai-lead-manager.vercel.app
